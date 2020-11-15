@@ -1,0 +1,46 @@
+[2020-11-15T22:25:45.492] [ERROR] default - Invalid Username
+[2020-11-15T22:36:55.880] [ERROR] default - Invalid Username
+[2020-11-15T23:37:38.107] [ERROR] default - undefined
+[2020-11-15T23:37:38.125] [INFO] default - updateUser repository response:  OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+[2020-11-15T23:39:45.899] [ERROR] default - undefined
+[2020-11-15T23:39:45.918] [INFO] default - updateUser repository response:  OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+[2020-11-15T23:40:35.157] [INFO] default - updateUser repository response:  OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+  protocol41: true,
+  changedRows: 0
+}
+[2020-11-15T23:40:35.167] [INFO] default - User updated with Id : 0
+[2020-11-15T23:41:03.429] [INFO] default - updateUser repository response:  OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+  protocol41: true,
+  changedRows: 1
+}
+[2020-11-15T23:41:03.437] [INFO] default - User updated with Id : 0
